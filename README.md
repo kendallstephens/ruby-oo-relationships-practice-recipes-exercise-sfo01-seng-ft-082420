@@ -21,7 +21,7 @@ should return the user instances who have recipe cards with this recipe
 should return all of the ingredients in this recipe
 - []`Recipe#allergens`
 should return all of the `Ingredient`s in this recipe that are allergens for `User`s in our system.
-- []`Recipe#add_ingredients`
+- [x]`Recipe#add_ingredients`
 should take an array of ingredient instances as an argument, and associate each of those ingredients with this recipe
 
 ### `Allergy`
